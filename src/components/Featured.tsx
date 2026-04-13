@@ -27,7 +27,7 @@ export default function Featured() {
             <span>Современная клиническая база</span>
           </div>
         </div>
-        <a href="#news" className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
+        <a href="https://vk.ru/club194039275" target="_blank" rel="noopener noreferrer" className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
           Новости колледжа
         </a>
       </div>

@@ -15,7 +15,9 @@ export default function Header({ className }: HeaderProps) {
             О колледже
           </a>
           <a
-            href="#news"
+            href="https://vk.ru/club194039275"
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
           >
             Новости

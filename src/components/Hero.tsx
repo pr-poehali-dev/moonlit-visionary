@@ -34,7 +34,9 @@ export default function Hero() {
           Готовим профессионалов здравоохранения с заботой о каждом студенте
         </p>
         <a
-          href="#news"
+          href="https://vk.ru/club194039275"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block mt-8 bg-white text-neutral-900 px-8 py-3 uppercase tracking-wide text-sm font-semibold hover:bg-neutral-200 transition-colors duration-300"
         >
           Читать новости
