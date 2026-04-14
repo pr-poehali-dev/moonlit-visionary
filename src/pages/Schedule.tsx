@@ -64,7 +64,7 @@ export default function Schedule() {
           На главную
         </Link>
         <span className="text-neutral-600">|</span>
-        <span className="text-sm uppercase tracking-wide font-medium">КМКЩФ</span>
+        <span className="text-sm uppercase tracking-wide font-medium">Щигровский филиал КМК</span>
       </header>
 
       <div className="max-w-5xl mx-auto px-4 py-10">

@@ -21,10 +21,7 @@ export default function PhotoGallery() {
   return (
     <section className="bg-neutral-50 py-16 px-6">
       <div className="max-w-6xl mx-auto">
-        <h2 className="uppercase text-sm tracking-widest text-neutral-500 mb-2">Жизнь колледжа</h2>
-        <p className="text-2xl lg:text-3xl text-neutral-900 font-light mb-10 leading-tight">
-          Внутри колледжа
-        </p>
+        <h2 className="text-2xl lg:text-3xl text-neutral-900 font-light mb-10 leading-tight">Жизнь внутри колледжа</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {photos.map((photo, i) => (
             <div key={i} className="overflow-hidden group">
