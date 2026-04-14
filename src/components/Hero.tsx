@@ -19,7 +19,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/3d574815-d0a6-4c09-a5ca-1ac743e66ad0/files/6e35690b-14f5-4a35-ab5d-fa92f9955aa0.jpg"
+          src="https://cdn.poehali.dev/projects/3d574815-d0a6-4c09-a5ca-1ac743e66ad0/bucket/50d797a5-d942-41cd-af55-2c96efa06850.png"
           alt="Щигровский филиал Курского медицинского колледжа"
           className="w-full h-full object-cover"
         />

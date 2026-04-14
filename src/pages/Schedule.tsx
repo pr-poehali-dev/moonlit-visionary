@@ -64,12 +64,12 @@ export default function Schedule() {
           На главную
         </Link>
         <span className="text-neutral-600">|</span>
-        <span className="text-sm uppercase tracking-wide font-medium">Щигровский филиал КМК</span>
+        <span className="text-sm uppercase tracking-wide font-medium">Щигровский филиал КМБК</span>
       </header>
 
       <div className="max-w-5xl mx-auto px-4 py-10">
         <h1 className="text-3xl font-bold text-neutral-900 mb-2">Расписание звонков и занятий</h1>
-        <p className="text-neutral-500 mb-8">Щигровский филиал ОБПОУ «КМК»</p>
+        <p className="text-neutral-500 mb-8">Щигровский филиал ОБПОУ «КМБК»</p>
 
         <Tabs defaultValue="bells">
           <TabsList className="mb-6 bg-neutral-200">

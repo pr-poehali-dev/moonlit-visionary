@@ -8,9 +8,8 @@ export default function Featured() {
         {/* Верхний блок: текст + фото */}
         <div className="flex flex-col lg:flex-row lg:items-center gap-12 mb-20">
           <div className="flex-1">
-            <p className="uppercase text-xs tracking-widest text-neutral-500 mb-4">Информация о колледже</p>
             <h2 className="text-3xl lg:text-4xl text-neutral-900 leading-tight mb-8 font-light">
-              Более 70 лет мы готовим медицинских специалистов — фельдшеров, медицинских сестёр и акушерок для Курской области и всей страны.
+              Более 30 лет мы готовим медицинских специалистов — фельдшеров, медицинских сестёр для Курской области и всей страны.
             </h2>
             <div className="flex flex-col gap-3">
               <div className="flex items-center gap-3 text-neutral-700">
@@ -68,7 +67,7 @@ export default function Featured() {
           {/* Контакты */}
           <div id="contact" className="border border-neutral-200 p-6 flex flex-col gap-4">
             <p className="uppercase text-xs tracking-widest text-neutral-500">Контакты</p>
-            <h3 className="text-xl text-neutral-900 font-medium leading-snug">Щигровский филиал ОБПОУ «КМК»</h3>
+            <h3 className="text-xl text-neutral-900 font-medium leading-snug">Щигровский филиал ОБПОУ «КМБК»</h3>
             <div className="flex flex-col gap-2 flex-1">
               <div>
                 <p className="text-xs text-neutral-500">Заведующий филиалом</p>

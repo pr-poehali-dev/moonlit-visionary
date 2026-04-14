@@ -6,7 +6,7 @@ const specialties = [
     icon: "🩺",
     title: "Сестринское дело",
     qualification: "Медицинская сестра / Медицинский брат",
-    duration: "2 года 10 месяцев (на базе 11 классов)",
+    duration: "2 года 10 месяцев (на базе 9 классов)",
     form: "Очная",
     skills: [
       "Оказывать доврачебную помощь и ухаживать за пациентами разного профиля.",
@@ -21,7 +21,7 @@ const specialties = [
     icon: "⚕️",
     title: "Лечебное дело",
     qualification: "Фельдшер",
-    duration: "3 года 10 месяцев (на базе 11 классов)",
+    duration: "3 года 10 месяцев (на базе 9 классов)",
     form: "Очная",
     skills: [
       "Самостоятельно ставить диагнозы и назначать лечение (в рамках компетенции фельдшера).",
@@ -43,12 +43,12 @@ export default function Specialties() {
           На главную
         </Link>
         <span className="text-neutral-600">|</span>
-        <span className="text-sm uppercase tracking-wide font-medium">Щигровский филиал КМК</span>
+        <span className="text-sm uppercase tracking-wide font-medium">Щигровский филиал КМБК</span>
       </header>
 
       <div className="max-w-5xl mx-auto px-4 py-10">
         <h1 className="text-3xl font-bold text-neutral-900 mb-2">Специальности</h1>
-        <p className="text-neutral-500 mb-10">Щигровский филиал ОБПОУ «КМК» — готовим медицинских специалистов</p>
+        <p className="text-neutral-500 mb-10">Щигровский филиал ОБПОУ «КМБК» — готовим медицинских специалистов</p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {specialties.map((spec, i) => (

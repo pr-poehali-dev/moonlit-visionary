@@ -54,7 +54,7 @@ export default function Footer() {
                 <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Адрес</h3>
                 <p className="text-white text-sm sm:text-base">г. Щигры, Курская обл.</p>
                 <p className="text-neutral-400 text-sm sm:text-base">Щигровский филиал</p>
-                <p className="text-neutral-400 text-sm sm:text-base">ОБПОУ «КМК»</p>
+                <p className="text-neutral-400 text-sm sm:text-base">ОБПОУ «КМБК»</p>
               </div>
               <div className="flex flex-col gap-1 sm:gap-2 max-w-xs">
                 <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Контакты</h3>
