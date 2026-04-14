@@ -31,6 +31,12 @@ export default function Header({ className }: HeaderProps) {
             Контакты
           </a>
           <Link
+            to="/specialties"
+            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
+          >
+            Специальности
+          </Link>
+          <Link
             to="/schedule"
             className="bg-white text-neutral-900 hover:bg-neutral-200 transition-colors duration-300 uppercase text-xs font-semibold px-4 py-2 rounded"
           >

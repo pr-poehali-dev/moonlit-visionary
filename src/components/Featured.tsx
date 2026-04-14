@@ -9,7 +9,7 @@ export default function Featured() {
         />
       </div>
       <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1">
-        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">О нашем филиале</h3>
+        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">Информация о колледже</h3>
         <p className="text-2xl lg:text-4xl mb-8 text-neutral-900 leading-tight">
           Более 70 лет мы готовим медицинских специалистов — фельдшеров, медицинских сестёр и акушерок для Курской области и всей страны.
         </p>

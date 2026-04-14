@@ -56,6 +56,18 @@ export default function Footer() {
                 <p className="text-neutral-400 text-sm sm:text-base">Щигровский филиал</p>
                 <p className="text-neutral-400 text-sm sm:text-base">ОБПОУ «КМК»</p>
               </div>
+              <div className="flex flex-col gap-1 sm:gap-2 max-w-xs">
+                <h3 className="mb-1 sm:mb-2 uppercase text-neutral-400 text-xs sm:text-sm">Контакты</h3>
+                <p className="text-neutral-400 text-xs sm:text-sm">Заведующий филиалом:</p>
+                <a href="tel:+74714542394" className="text-white hover:text-neutral-400 transition-colors text-sm">+(47145) 4-23-94</a>
+                <p className="text-neutral-400 text-xs sm:text-sm mt-1">Учительская:</p>
+                <a href="tel:+74714542391" className="text-white hover:text-neutral-400 transition-colors text-sm">+(47145) 4-23-91</a>
+                <p className="text-neutral-400 text-xs sm:text-sm mt-1">Учебная часть:</p>
+                <a href="tel:+74714542705" className="text-white hover:text-neutral-400 transition-colors text-sm">+(47145) 4-27-05</a>
+                <a href="https://kolmed.ru" target="_blank" rel="noopener noreferrer" className="text-white hover:text-neutral-400 transition-colors text-sm mt-1">kolmed.ru</a>
+                <p className="text-neutral-400 text-xs sm:text-sm mt-1">Пн–Пт: 8:00–17:00</p>
+                <p className="text-neutral-400 text-xs sm:text-sm">Перерыв: 12:00–13:00</p>
+              </div>
             </div>
             <div className="flex flex-col sm:flex-row justify-between items-start sm:items-end gap-4 sm:gap-0">
               <h1 className="text-[10vw] sm:text-[9vw] lg:text-[8vw] leading-[0.85] mt-4 sm:mt-6 lg:mt-10 text-white font-bold tracking-tight">
